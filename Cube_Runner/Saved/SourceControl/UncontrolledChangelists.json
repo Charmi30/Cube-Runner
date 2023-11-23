@@ -9,7 +9,9 @@
 				"G:/Projects/GitHub/Cube-Runner/Cube_Runner/Content/ThirdPerson/Maps/Level_1.umap",
 				"G:/Projects/GitHub/Cube-Runner/Cube_Runner/Content/Cube/BP_Cube.uasset",
 				"G:/Projects/GitHub/Cube-Runner/Cube_Runner/Content/Cube/CubeGameMode.uasset",
-				"G:/Projects/GitHub/Cube-Runner/Cube_Runner/Content/Cube/CubePhysicsMaterial.uasset"
+				"G:/Projects/GitHub/Cube-Runner/Cube_Runner/Content/Cube/CubePhysicsMaterial.uasset",
+				"G:/Projects/GitHub/Cube-Runner/Cube_Runner/Content/Cube/BP_Obstacle.uasset",
+				"G:/Unreal Engine/U_Editor/UE_5.2/Engine/Content/BasicShapes/Cube.uasset"
 			]
 		}
 	]
