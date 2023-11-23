@@ -12,7 +12,18 @@
 				"G:/Projects/GitHub/Cube-Runner/Cube_Runner/Content/Cube/CubePhysicsMaterial.uasset",
 				"G:/Projects/GitHub/Cube-Runner/Cube_Runner/Content/Cube/BP_Obstacle.uasset",
 				"G:/Unreal Engine/U_Editor/UE_5.2/Engine/Content/BasicShapes/Cube.uasset",
-				"G:/Projects/GitHub/Cube-Runner/Cube_Runner/Content/WB_Score.uasset"
+				"G:/Projects/GitHub/Cube-Runner/Cube_Runner/Content/WB_Score.uasset",
+				"G:/Projects/GitHub/Cube-Runner/Cube_Runner/Content/Cube/WB_Score.uasset",
+				"G:/Projects/GitHub/Cube-Runner/Cube_Runner/Content/Cube/Killvolume.uasset",
+				"G:/Projects/GitHub/Cube-Runner/Cube_Runner/Content/Cube/Endlevel.uasset",
+				"G:/Projects/GitHub/Cube-Runner/Cube_Runner/Content/ThirdPerson/Maps/Level_2.umap",
+				"G:/Projects/GitHub/Cube-Runner/Cube_Runner/Content/Cube/WB_Levelwinscreen.uasset",
+				"G:/Projects/GitHub/Cube-Runner/Cube_Runner/Content/ThirdPerson/Maps/Level_3.umap",
+				"G:/Projects/GitHub/Cube-Runner/Cube_Runner/Content/ThirdPerson/Maps/winscreenlevel.umap",
+				"G:/Projects/GitHub/Cube-Runner/Cube_Runner/Content/Cube/WB_Winscreen.uasset",
+				"G:/Projects/GitHub/Cube-Runner/Cube_Runner/Content/Cube/Titlegamemode.uasset",
+				"G:/Projects/GitHub/Cube-Runner/Cube_Runner/Content/Cube/WB_Title.uasset",
+				"G:/Projects/GitHub/Cube-Runner/Cube_Runner/Content/ThirdPerson/Maps/Title.umap"
 			]
 		}
 	]
